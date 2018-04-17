@@ -24,3 +24,8 @@ input[type="submit"] {
     font-size: 2em;
     width: 100%;
 }
+
+#div{
+    background-color: grey;
+    text-align: center;
+}
